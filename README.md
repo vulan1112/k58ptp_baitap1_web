@@ -70,6 +70,8 @@ webapp: ** http://localhost:62435/** để truy cập trang web trên chính lap
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a53c54df-6059-4cd7-a3fd-c0c645d723bc" />
 
+# chạy thử:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/769fce68-f50b-4d59-be49-95c7e91b0e03" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aa290070-807f-42ca-8fe7-09359b6b09f0" />
