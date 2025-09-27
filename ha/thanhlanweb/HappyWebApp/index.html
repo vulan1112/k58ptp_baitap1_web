@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>🎉 Số Happy & Câu Đối 🎉</title>
+    <style>
+        body {
+            text-align: center;
+            padding: 30px;
+            background-size: cover;
+            background-position: center;
+            color: #fff;
+            font-family: 'Tahoma', sans-serif;
+        }
+
+        .happy-box {
+            background: rgba(0,0,0,0.6);
+            border-radius: 20px;
+            padding: 20px;
+            display: inline-block;
+        }
+
+        h1 {
+            color: yellow;
+            text-shadow: 2px 2px 4px red;
+        }
+
+        #result {
+            font-size: 22px;
+            margin-top: 20px;
+            font-weight: bold;
+        }
+
+        .note {
+            margin-top: 15px;
+            font-size: 14px;
+            color: #ffd;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="happy-box">
+        <h1>🧧 Kiểm tra Số Happy 🧧</h1>
+        <input type="text" id="name" placeholder="Nhập tên bạn">
+        <input type="number" id="num" placeholder="Nhập số bất kỳ">
+        <button onclick="checkNumber()">Kiểm tra</button>
+        <div id="result"></div>
+    </div>
+
+    <script>
+        // 30 số happy kèm câu đối
+        const happyList = {
+            1: "Xuân sang tài lộc tràn đầy",
+            10: "Mai nở đào khoe sắc Tết",
+            11: "Phúc lộc đầy nhà, an khang thịnh vượng",
+            19: "Vạn sự như ý, tỷ sự như mơ",
+            23: "Tân niên hạnh phúc bình an",
+            28: "Xuân nhật vinh hoa phú quý",
+            31: "Gia đình đoàn viên, sung túc",
+            37: "Đào thắm mai vàng rực rỡ",
+            44: "Xuân vui phúc thọ an khang",
+            49: "Chúc Tết an khang, thịnh vượng",
+            52: "Ngập tràn may mắn, niềm vui",
+            58: "Năm mới sung túc, an nhiên",
+            61: "Tết đến nhà nhà phúc lộc",
+            9: "Vui xuân phát tài phát lộc",
+            70: "Xuân hạnh phúc, Tết đoàn viên",
+            75: "Bách niên giai lão, vạn sự thành công",
+            82: "Phúc đầy, lộc tới, thọ dài lâu",
+            88: "Xuân tươi thắm, tình viên mãn",
+            91: "Sức khỏe dồi dào, hạnh phúc trọn vẹn",
+            97: "Xuân đến bình an, Tết đầy hạnh phúc",
+            103: "Năm mới muôn điều may mắn",
+            111: "Xuân an khang, Tết thịnh vượng",
+            123: "Phúc lộc thọ tam đa",
+            135: "Xuân sang muôn nhà hạnh phúc",
+            148: "Tết về phúc mãn đường",
+            159: "Gia hòa vạn sự hưng",
+            177: "Đông qua xuân tới, muôn hoa nở rộ",
+            188: "Xuân hòa, Tết vui, gia đình sum họp",
+            199: "Mùa xuân rộn rã tiếng cười",
+            200: "An khang – Thịnh vượng – Vạn điều như ý"
+        };
+
+        function checkNumber() {
+            const num = parseInt(document.getElementById("num").value);
+            const name = document.getElementById("name").value.trim();
+
+            if (happyList[num]) {
+                let cau = happyList[num];
+                document.getElementById("result").innerHTML =
+                    `🎉 Xin chúc mừng ${name}! ${num} là SỐ HAPPY 🎉<br>
+               🧧 ${cau} 🧧<br>
+               🌸 Chúc ${name} năm 2026 dồi dào sức khỏe, vạn sự như ý 🌸
+               <div class="note">(Chỉ là đoán cho vui, chúc là thật 😊)</div>`;
+            } else {
+                document.getElementById("result").innerHTML =
+                    `😢 Xin lỗi ${name}, ${num} chưa nằm trong danh sách SỐ HAPPY.<br>
+               <div class="note">(Chỉ là đoán cho vui, chúc là thật 😊)</div>`;
+            }
+        }
+    </script>
+</body>
+</html>

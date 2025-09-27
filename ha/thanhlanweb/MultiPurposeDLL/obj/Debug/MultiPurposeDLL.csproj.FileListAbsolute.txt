@@ -1,0 +1,6 @@
+D:\ha\thanhlanweb\MultiPurposeDLL\bin\Debug\MultiPurposeDLL.dll
+D:\ha\thanhlanweb\MultiPurposeDLL\bin\Debug\MultiPurposeDLL.pdb
+D:\ha\thanhlanweb\MultiPurposeDLL\obj\Debug\MultiPurposeDLL.csproj.AssemblyReference.cache
+D:\ha\thanhlanweb\MultiPurposeDLL\obj\Debug\MultiPurposeDLL.csproj.CoreCompileInputs.cache
+D:\ha\thanhlanweb\MultiPurposeDLL\obj\Debug\MultiPurposeDLL.dll
+D:\ha\thanhlanweb\MultiPurposeDLL\obj\Debug\MultiPurposeDLL.pdb

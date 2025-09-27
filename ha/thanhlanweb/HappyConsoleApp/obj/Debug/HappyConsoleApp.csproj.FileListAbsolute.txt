@@ -1,0 +1,9 @@
+D:\ha\thanhlanweb\HappyConsoleApp\bin\Debug\HappyConsoleApp.exe
+D:\ha\thanhlanweb\HappyConsoleApp\bin\Debug\HappyConsoleApp.pdb
+D:\ha\thanhlanweb\HappyConsoleApp\bin\Debug\MultiPurposeDLL.dll
+D:\ha\thanhlanweb\HappyConsoleApp\bin\Debug\MultiPurposeDLL.pdb
+D:\ha\thanhlanweb\HappyConsoleApp\obj\Debug\HappyConsoleApp.csproj.AssemblyReference.cache
+D:\ha\thanhlanweb\HappyConsoleApp\obj\Debug\HappyConsoleApp.csproj.CoreCompileInputs.cache
+D:\ha\thanhlanweb\HappyConsoleApp\obj\Debug\HappyCon.4A77EA24.Up2Date
+D:\ha\thanhlanweb\HappyConsoleApp\obj\Debug\HappyConsoleApp.exe
+D:\ha\thanhlanweb\HappyConsoleApp\obj\Debug\HappyConsoleApp.pdb

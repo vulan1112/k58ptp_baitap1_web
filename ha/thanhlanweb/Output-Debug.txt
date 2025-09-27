@@ -1,0 +1,48 @@
+﻿'iisexpress.exe' (CLR v2.0.50727: DefaultDomain): Loaded 'C:\WINDOWS\assembly\GAC_64\mscorlib\2.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: DefaultDomain): Loaded 'C:\WINDOWS\assembly\GAC_64\System.Web\2.0.0.0__b03f5f7f11d50a3a\System.Web.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: DefaultDomain): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System\2.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: Domain 2): Loaded 'C:\WINDOWS\assembly\GAC_64\mscorlib\2.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: DefaultDomain): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.Configuration\2.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: /LM/W3SVC/2/ROOT-1-134033667847972767): Loaded 'C:\WINDOWS\assembly\GAC_64\System.Web\2.0.0.0__b03f5f7f11d50a3a\System.Web.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: /LM/W3SVC/2/ROOT-1-134033667847972767): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System\2.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: /LM/W3SVC/2/ROOT-1-134033667847972767): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.Configuration\2.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: /LM/W3SVC/2/ROOT-1-134033667847972767): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.Xml\2.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: DefaultDomain): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.Xml\2.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: /LM/W3SVC/2/ROOT-1-134033667847972767): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.JScript\8.0.0.0__b03f5f7f11d50a3a\Microsoft.JScript.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: /LM/W3SVC/2/ROOT-1-134033667847972767): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.ServiceModel\3.0.0.0__b77a5c561934e089\System.ServiceModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: /LM/W3SVC/2/ROOT-1-134033667847972767): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\SMDiagnostics\3.0.0.0__b77a5c561934e089\SMDiagnostics.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: /LM/W3SVC/2/ROOT-1-134033667847972767): Loaded 'C:\WINDOWS\assembly\GAC_64\System.Data\2.0.0.0__b77a5c561934e089\System.Data.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: /LM/W3SVC/2/ROOT-1-134033667847972767): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: /LM/W3SVC/2/ROOT-1-134033667847972767): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.Drawing\2.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: /LM/W3SVC/2/ROOT-1-134033667847972767): Loaded 'C:\WINDOWS\assembly\GAC_64\System.EnterpriseServices\2.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: /LM/W3SVC/2/ROOT-1-134033667847972767): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.Web.Mobile\2.0.0.0__b03f5f7f11d50a3a\System.Web.Mobile.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: /LM/W3SVC/2/ROOT-1-134033667847972767): Loaded 'C:\Users\verte\AppData\Local\Temp\Temporary ASP.NET Files\root\fdcef487\ce850acf\assembly\dl3\25a57450\277e9519_e92edc01\HappyWebApp.DLL'. Symbols loaded.
+'iisexpress.exe' (CLR v2.0.50727: /LM/W3SVC/2/ROOT-1-134033667847972767): Loaded 'C:\Users\verte\AppData\Local\Temp\Temporary ASP.NET Files\root\fdcef487\ce850acf\assembly\dl3\d3dc1a58\131c5aee_dd2edc01\MultiPurposeDLL.DLL'. Symbols loaded.
+'iisexpress.exe' (CLR v2.0.50727: /LM/W3SVC/2/ROOT-1-134033667847972767): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.Runtime.Serialization\3.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: /LM/W3SVC/2/ROOT-1-134033667847972767): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.IdentityModel\3.0.0.0__b77a5c561934e089\System.IdentityModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: /LM/W3SVC/2/ROOT-1-134033667847972767): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.ServiceModel.Web\3.5.0.0__31bf3856ad364e35\System.ServiceModel.Web.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: /LM/W3SVC/2/ROOT-1-134033667847972767): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.WorkflowServices\3.5.0.0__31bf3856ad364e35\System.WorkflowServices.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: /LM/W3SVC/2/ROOT-1-134033667847972767): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.Web.RegularExpressions\2.0.0.0__b03f5f7f11d50a3a\System.Web.RegularExpressions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: DefaultDomain): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.Web.RegularExpressions\2.0.0.0__b03f5f7f11d50a3a\System.Web.RegularExpressions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'iisexpress.exe' (CLR v2.0.50727: /LM/W3SVC/2/ROOT-1-134033667847972767): Loaded 'C:\Users\verte\AppData\Local\Temp\Temporary ASP.NET Files\root\fdcef487\ce850acf\App_Web_q23wmk_j.dll'. 
+Exception thrown: 'System.Threading.ThreadAbortException' in mscorlib.dll
+Exception thrown: 'System.Threading.ThreadAbortException' in mscorlib.dll
+Exception thrown: 'System.Threading.ThreadAbortException' in mscorlib.dll
+Exception thrown: 'System.Threading.ThreadAbortException' in mscorlib.dll
+Exception thrown: 'System.Threading.ThreadAbortException' in mscorlib.dll
+Exception thrown: 'System.Threading.ThreadAbortException' in mscorlib.dll
+Exception thrown: 'System.Threading.ThreadAbortException' in mscorlib.dll
+Exception thrown: 'System.Threading.ThreadAbortException' in mscorlib.dll
+Exception thrown: 'System.Threading.ThreadAbortException' in mscorlib.dll
+Exception thrown: 'System.Threading.ThreadAbortException' in mscorlib.dll
+Exception thrown: 'System.Threading.ThreadAbortException' in mscorlib.dll
+Exception thrown: 'System.Threading.ThreadAbortException' in mscorlib.dll
+Exception thrown: 'System.Threading.ThreadAbortException' in mscorlib.dll
+Exception thrown: 'System.Threading.ThreadAbortException' in mscorlib.dll
+Exception thrown: 'System.Threading.ThreadAbortException' in mscorlib.dll
+Exception thrown: 'System.Threading.ThreadAbortException' in mscorlib.dll
+Exception thrown: 'System.Threading.ThreadAbortException' in mscorlib.dll
+Exception thrown: 'System.Threading.ThreadAbortException' in mscorlib.dll
+Exception thrown: 'System.Threading.ThreadAbortException' in mscorlib.dll
+Exception thrown: 'System.Threading.ThreadAbortException' in mscorlib.dll
+The program '[22176] iisexpress.exe' has exited with code 4294967295 (0xffffffff).

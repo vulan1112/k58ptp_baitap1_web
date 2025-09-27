@@ -1,0 +1,12 @@
+D:\ha\thanhlanweb\HappyWinFormApp\obj\Debug\HappyWinFormApp.csproj.AssemblyReference.cache
+D:\ha\thanhlanweb\HappyWinFormApp\obj\Debug\HappyWinFormApp.Form1.resources
+D:\ha\thanhlanweb\HappyWinFormApp\obj\Debug\HappyWinFormApp.Properties.Resources.resources
+D:\ha\thanhlanweb\HappyWinFormApp\obj\Debug\HappyWinFormApp.csproj.GenerateResource.cache
+D:\ha\thanhlanweb\HappyWinFormApp\obj\Debug\HappyWinFormApp.csproj.CoreCompileInputs.cache
+D:\ha\thanhlanweb\HappyWinFormApp\bin\Debug\HappyWinFormApp.exe
+D:\ha\thanhlanweb\HappyWinFormApp\bin\Debug\HappyWinFormApp.pdb
+D:\ha\thanhlanweb\HappyWinFormApp\bin\Debug\MultiPurposeDLL.dll
+D:\ha\thanhlanweb\HappyWinFormApp\bin\Debug\MultiPurposeDLL.pdb
+D:\ha\thanhlanweb\HappyWinFormApp\obj\Debug\HappyWin.C0C2C968.Up2Date
+D:\ha\thanhlanweb\HappyWinFormApp\obj\Debug\HappyWinFormApp.exe
+D:\ha\thanhlanweb\HappyWinFormApp\obj\Debug\HappyWinFormApp.pdb
