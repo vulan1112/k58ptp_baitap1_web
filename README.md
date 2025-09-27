@@ -66,7 +66,9 @@ vào visual studio chuột phải vào HappyWebApp build ->chọn Set as startup
 
 Có thể nhập tên và số bất kỳ xem có Happy hay khong và nếu Happy sẽ cho ra một câu đối và câu chúc người đó năm 2026 dồi dào sức khỏe, vạn sự như ý.
 
-webapp: ** http://localhost:62435/** để truy cập trang web trên chính laptop của bản thân mà không cần mở thông qua Visual Studio khi ta tạo II
+webapp: ** http://localhost:62435/** để truy cập trang web trên chính laptop của bản thân mà không cần mở thông qua Visual Studio khi ta tạo IIS
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a53c54df-6059-4cd7-a3fd-c0c645d723bc" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/769fce68-f50b-4d59-be49-95c7e91b0e03" />
 
